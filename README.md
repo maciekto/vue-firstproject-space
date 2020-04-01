@@ -1,4 +1,8 @@
-# vue-firstproject-space
+# App to search photos from space
+
+## Thanks to YT: hello roman, for that course
+
+# __________________________________________________
 
 ## Project setup
 ```
