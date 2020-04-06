@@ -34,7 +34,7 @@ export default {
         background-position: 50%;
 
         @media (min-width: 768px){
-            width: 25vw;
+            width: calc(30vw - 6.6px);
         }
     }
 </style>
